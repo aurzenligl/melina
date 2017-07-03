@@ -1,6 +1,6 @@
 Melina can convert meta.xml to meta language (similar to protobuf) and back.
 
-.. code-block:: cpp
+.. code-block::
 
     melina --meta-out DIR1 meta.xml  # to meta
     melina --xml-out DIR2 meta.meta  # back to xml
